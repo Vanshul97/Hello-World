@@ -1,0 +1,5 @@
+nsra_moveit_config
+/home/noa/NS-RobotArm/robot_ws/devel/.private/nsra_moveit_config/cmake.lock /home/noa/NS-RobotArm/robot_ws/devel/./cmake.lock
+/home/noa/NS-RobotArm/robot_ws/devel/.private/nsra_moveit_config/lib/pkgconfig/nsra_moveit_config.pc /home/noa/NS-RobotArm/robot_ws/devel/lib/pkgconfig/nsra_moveit_config.pc
+/home/noa/NS-RobotArm/robot_ws/devel/.private/nsra_moveit_config/share/nsra_moveit_config/cmake/nsra_moveit_configConfig-version.cmake /home/noa/NS-RobotArm/robot_ws/devel/share/nsra_moveit_config/cmake/nsra_moveit_configConfig-version.cmake
+/home/noa/NS-RobotArm/robot_ws/devel/.private/nsra_moveit_config/share/nsra_moveit_config/cmake/nsra_moveit_configConfig.cmake /home/noa/NS-RobotArm/robot_ws/devel/share/nsra_moveit_config/cmake/nsra_moveit_configConfig.cmake

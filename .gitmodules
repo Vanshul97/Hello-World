@@ -1,0 +1,6 @@
+[submodule "NS-RobotArm_CAD"]
+	path = NS-RobotArm_CAD
+	url = https://github.com/Noothless/NS-RobotArm_CAD
+[submodule "NS_RobotArm_EDA"]
+	path = NS_RobotArm_EDA
+	url = https://github.com/Noothless/NS_RobotArm_EDA

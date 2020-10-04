@@ -1,0 +1,7 @@
+nsra_computer_vision
+/home/noa/NS-RobotArm/robot_ws/devel/.private/nsra_computer_vision/cmake.lock /home/noa/NS-RobotArm/robot_ws/devel/./cmake.lock
+/home/noa/NS-RobotArm/robot_ws/devel/.private/nsra_computer_vision/lib/pkgconfig/nsra_computer_vision.pc /home/noa/NS-RobotArm/robot_ws/devel/lib/pkgconfig/nsra_computer_vision.pc
+/home/noa/NS-RobotArm/robot_ws/devel/.private/nsra_computer_vision/lib/nsra_computer_vision/nsra_computer_vision_main /home/noa/NS-RobotArm/robot_ws/devel/lib/nsra_computer_vision/nsra_computer_vision_main
+/home/noa/NS-RobotArm/robot_ws/devel/.private/nsra_computer_vision/lib/nsra_computer_vision/single_cam_callibration /home/noa/NS-RobotArm/robot_ws/devel/lib/nsra_computer_vision/single_cam_callibration
+/home/noa/NS-RobotArm/robot_ws/devel/.private/nsra_computer_vision/share/nsra_computer_vision/cmake/nsra_computer_visionConfig.cmake /home/noa/NS-RobotArm/robot_ws/devel/share/nsra_computer_vision/cmake/nsra_computer_visionConfig.cmake
+/home/noa/NS-RobotArm/robot_ws/devel/.private/nsra_computer_vision/share/nsra_computer_vision/cmake/nsra_computer_visionConfig-version.cmake /home/noa/NS-RobotArm/robot_ws/devel/share/nsra_computer_vision/cmake/nsra_computer_visionConfig-version.cmake

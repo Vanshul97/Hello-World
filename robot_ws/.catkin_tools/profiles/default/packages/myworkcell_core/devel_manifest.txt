@@ -1,0 +1,27 @@
+myworkcell_core
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/cmake.lock /home/jetson/NS-RobotArm/robot_ws/devel/./cmake.lock
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/lib/pkgconfig/myworkcell_core.pc /home/jetson/NS-RobotArm/robot_ws/devel/lib/pkgconfig/myworkcell_core.pc
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/lib/myworkcell_core/vision_node /home/jetson/NS-RobotArm/robot_ws/devel/lib/myworkcell_core/vision_node
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/lib/myworkcell_core/myworkcell_node /home/jetson/NS-RobotArm/robot_ws/devel/lib/myworkcell_core/myworkcell_node
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/lib/python2.7/dist-packages/myworkcell_core/__init__.py /home/jetson/NS-RobotArm/robot_ws/devel/lib/python2.7/dist-packages/myworkcell_core/__init__.py
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/lib/python2.7/dist-packages/myworkcell_core/__init__.pyc /home/jetson/NS-RobotArm/robot_ws/devel/lib/python2.7/dist-packages/myworkcell_core/__init__.pyc
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/lib/python2.7/dist-packages/myworkcell_core/srv/_LocalizePart.py /home/jetson/NS-RobotArm/robot_ws/devel/lib/python2.7/dist-packages/myworkcell_core/srv/_LocalizePart.py
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/lib/python2.7/dist-packages/myworkcell_core/srv/__init__.py /home/jetson/NS-RobotArm/robot_ws/devel/lib/python2.7/dist-packages/myworkcell_core/srv/__init__.py
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/lib/python2.7/dist-packages/myworkcell_core/srv/__init__.pyc /home/jetson/NS-RobotArm/robot_ws/devel/lib/python2.7/dist-packages/myworkcell_core/srv/__init__.pyc
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/lib/python2.7/dist-packages/myworkcell_core/srv/_LocalizePart.pyc /home/jetson/NS-RobotArm/robot_ws/devel/lib/python2.7/dist-packages/myworkcell_core/srv/_LocalizePart.pyc
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/share/common-lisp/ros/myworkcell_core/srv/_package_LocalizePart.lisp /home/jetson/NS-RobotArm/robot_ws/devel/share/common-lisp/ros/myworkcell_core/srv/_package_LocalizePart.lisp
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/share/common-lisp/ros/myworkcell_core/srv/_package.lisp /home/jetson/NS-RobotArm/robot_ws/devel/share/common-lisp/ros/myworkcell_core/srv/_package.lisp
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/share/common-lisp/ros/myworkcell_core/srv/LocalizePart.lisp /home/jetson/NS-RobotArm/robot_ws/devel/share/common-lisp/ros/myworkcell_core/srv/LocalizePart.lisp
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/share/common-lisp/ros/myworkcell_core/srv/myworkcell_core-srv.asd /home/jetson/NS-RobotArm/robot_ws/devel/share/common-lisp/ros/myworkcell_core/srv/myworkcell_core-srv.asd
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/share/myworkcell_core/cmake/myworkcell_coreConfig.cmake /home/jetson/NS-RobotArm/robot_ws/devel/share/myworkcell_core/cmake/myworkcell_coreConfig.cmake
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/share/myworkcell_core/cmake/myworkcell_core-msg-paths.cmake /home/jetson/NS-RobotArm/robot_ws/devel/share/myworkcell_core/cmake/myworkcell_core-msg-paths.cmake
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/share/myworkcell_core/cmake/myworkcell_coreConfig-version.cmake /home/jetson/NS-RobotArm/robot_ws/devel/share/myworkcell_core/cmake/myworkcell_coreConfig-version.cmake
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/share/myworkcell_core/cmake/myworkcell_core-msg-extras.cmake /home/jetson/NS-RobotArm/robot_ws/devel/share/myworkcell_core/cmake/myworkcell_core-msg-extras.cmake
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/share/gennodejs/ros/myworkcell_core/_index.js /home/jetson/NS-RobotArm/robot_ws/devel/share/gennodejs/ros/myworkcell_core/_index.js
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/share/gennodejs/ros/myworkcell_core/srv/LocalizePart.js /home/jetson/NS-RobotArm/robot_ws/devel/share/gennodejs/ros/myworkcell_core/srv/LocalizePart.js
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/share/gennodejs/ros/myworkcell_core/srv/_index.js /home/jetson/NS-RobotArm/robot_ws/devel/share/gennodejs/ros/myworkcell_core/srv/_index.js
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/share/roseus/ros/myworkcell_core/manifest.l /home/jetson/NS-RobotArm/robot_ws/devel/share/roseus/ros/myworkcell_core/manifest.l
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/share/roseus/ros/myworkcell_core/srv/LocalizePart.l /home/jetson/NS-RobotArm/robot_ws/devel/share/roseus/ros/myworkcell_core/srv/LocalizePart.l
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/include/myworkcell_core/LocalizePartRequest.h /home/jetson/NS-RobotArm/robot_ws/devel/include/myworkcell_core/LocalizePartRequest.h
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/include/myworkcell_core/LocalizePartResponse.h /home/jetson/NS-RobotArm/robot_ws/devel/include/myworkcell_core/LocalizePartResponse.h
+/home/jetson/NS-RobotArm/robot_ws/devel/.private/myworkcell_core/include/myworkcell_core/LocalizePart.h /home/jetson/NS-RobotArm/robot_ws/devel/include/myworkcell_core/LocalizePart.h

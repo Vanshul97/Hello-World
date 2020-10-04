@@ -1,0 +1,5 @@
+nsra_support
+/home/noa/NS-RobotArm/robot_ws/devel/.private/nsra_support/cmake.lock /home/noa/NS-RobotArm/robot_ws/devel/./cmake.lock
+/home/noa/NS-RobotArm/robot_ws/devel/.private/nsra_support/lib/pkgconfig/nsra_support.pc /home/noa/NS-RobotArm/robot_ws/devel/lib/pkgconfig/nsra_support.pc
+/home/noa/NS-RobotArm/robot_ws/devel/.private/nsra_support/share/nsra_support/cmake/nsra_supportConfig-version.cmake /home/noa/NS-RobotArm/robot_ws/devel/share/nsra_support/cmake/nsra_supportConfig-version.cmake
+/home/noa/NS-RobotArm/robot_ws/devel/.private/nsra_support/share/nsra_support/cmake/nsra_supportConfig.cmake /home/noa/NS-RobotArm/robot_ws/devel/share/nsra_support/cmake/nsra_supportConfig.cmake

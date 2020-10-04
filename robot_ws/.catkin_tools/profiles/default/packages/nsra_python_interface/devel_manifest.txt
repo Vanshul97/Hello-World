@@ -1,0 +1,5 @@
+nsra_python_interface
+/home/noa/NS-RobotArm/robot_ws/devel/.private/nsra_python_interface/cmake.lock /home/noa/NS-RobotArm/robot_ws/devel/./cmake.lock
+/home/noa/NS-RobotArm/robot_ws/devel/.private/nsra_python_interface/lib/pkgconfig/nsra_python_interface.pc /home/noa/NS-RobotArm/robot_ws/devel/lib/pkgconfig/nsra_python_interface.pc
+/home/noa/NS-RobotArm/robot_ws/devel/.private/nsra_python_interface/share/nsra_python_interface/cmake/nsra_python_interfaceConfig-version.cmake /home/noa/NS-RobotArm/robot_ws/devel/share/nsra_python_interface/cmake/nsra_python_interfaceConfig-version.cmake
+/home/noa/NS-RobotArm/robot_ws/devel/.private/nsra_python_interface/share/nsra_python_interface/cmake/nsra_python_interfaceConfig.cmake /home/noa/NS-RobotArm/robot_ws/devel/share/nsra_python_interface/cmake/nsra_python_interfaceConfig.cmake

@@ -1,0 +1,24 @@
+#!/usr/bin/python
+import rospy
+import requests
+from std_msgs.msg import Int16
+  
+URL_OPEN = "http://192.168.1.202/open"
+URL_CLOSE = "http://192.168.1.202/close"
+PARAMS = {} 
+  
+# sending get request and saving the response as response object 
+
+
+def gripper_command(data):
+    global URL_CLOSE
+    global URL_OPEN
+    if data.data == 0:
+        requests.get(url = URL_CLOSE, params = PARAMS)
+    elif data.data == 1:
+        requests.get(url = URL_OPEN, params = PARAMS)
+
+
+rospy.init_node('nsra_gripper')
+rospy.Subscriber("nsra/gripper_command", Int16, gripper_command)
+rospy.spin()
